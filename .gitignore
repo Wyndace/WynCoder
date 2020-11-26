@@ -1,0 +1,6 @@
+*.scss
+*.txt
+/scss/*
+*.less
+/less/*
+init.css
