@@ -3,4 +3,4 @@
 /scss/*
 *.less
 /less/*
-init.css
+*/init.css
